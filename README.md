@@ -1,6 +1,6 @@
 - 👋 I’m @Gantzhorn
 - 👀 I’m interested in statistics and data science
-- 🌱 I’m currently studying statistics at the university of Copenhagen
+- 🌱 I’m currently working as a BI-developer at the pension firm: "P+, Pensionskassen for Akademikere".
 - 📫 andersgantzhorn@gmail.com
 
 <!---
